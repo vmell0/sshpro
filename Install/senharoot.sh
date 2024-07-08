@@ -7,7 +7,7 @@ YELLOW='\033[1;33m'
 SCOLOR='\033[0m'
 
 function executa_instalador() {
-    wget -O /etc/ssh/sshd_config https://raw.githubusercontent.com/vmell0/sshpro/main/Install/sshd_config > /dev/null 2>&1
+    wget -O /etc/ssh/sshd_config https://raw.githubusercontent.com/vmell0/sshpro/main/Install/sshd_config
 }
 
 # - Execução
