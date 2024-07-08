@@ -26,3 +26,4 @@ sleep 4s
 echo -e "\n\033[1;31m[ \033[1;33mServidor será reiniciado\033[0m"
 sleep 4s
 reboot
+exit
